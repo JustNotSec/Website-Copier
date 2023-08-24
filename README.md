@@ -22,8 +22,11 @@ NodeJS Download > https://nodejs.org/en/download
 
 ## Cara Menggunakan
 
-```bash
-node main.js
+```javascripts
+git clone https://github.com/JustNotSec/Website-Copier.git
+cd Website-Copier
+node main.mjs
+INGET MAIN.MJS! BUKAN MAIN.JS
 ```
 
 
