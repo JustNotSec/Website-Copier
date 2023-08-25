@@ -25,6 +25,7 @@ NodeJS Download > https://nodejs.org/en/download
 ```javascripts
 git clone https://github.com/JustNotSec/Website-Copier.git
 cd Website-Copier
+node setup.js
 node main.mjs
 INGET MAIN.MJS! BUKAN MAIN.JS
 ```
